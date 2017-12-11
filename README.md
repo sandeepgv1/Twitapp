@@ -3,8 +3,6 @@
 ## Twitter App prototype &lt;UI Components only>
 This is an implementation of a Prototype for Twitter App with only UI components. It includes only the 3 core screens of the Twitter - Profile page(as a Drawer), Timeline View and Search (Tab styled). Since this is UI only project, the Twitter feed has been embedded using a public Twitter feed. This has been implemented with atmost simplicity and still with the exact match to the Twitter App UI.
 
-
-
 ## Getting Started
 1. Download this project to your local system
 2. Open Command Prompt as Administrtor and navigate to the project folder
@@ -32,4 +30,5 @@ This is an implementation of a Prototype for Twitter App with only UI components
 * react-native-vector-icons
 
 
-Sandeep Gengineri
+
+Sandeep Gengineri :bow:
