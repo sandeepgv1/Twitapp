@@ -24,12 +24,12 @@ Installed Android Studio with Android Virtual Device Manager enabled
 Expo app installed on your phone.
 
 # External React-Native NPM packages used:
-> native-base
-> react-navigation
-> react-native-elements
-> react-native-action-button
-> react-twitter-embedded-timeline 
-> react-native-vector-icons
+$ native-base
+$ react-navigation
+$ react-native-elements
+$ react-native-action-button
+$ react-twitter-embedded-timeline 
+$ react-native-vector-icons
 
 
 Sandeep Gengineri
