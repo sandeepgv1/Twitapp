@@ -5,7 +5,7 @@ This is an implementation of a Prototype for Twitter App with only UI components
 
 
 
-Getting Started
+# Getting Started
 1. Download this project to your local system
 2. Open Command Prompt as Administrtor and navigate to the project folder
 3. Install all the necessary npm packages listed
@@ -14,7 +14,7 @@ Getting Started
 6. After PackageManager is loaded select andriod emulator option to run app by pressing "a" to run on Emulator
 7. Alternatively, select 'q' to get a QR code that can be scanned using the Expo app on the phone and run the app on the phone
 
-#Prerequisites:
+# Prerequisites:
 Node - https://nodejs.org/en/
 npm - https://www.npmjs.com/
 CRNA - https://github.com/react-community/create-react-native-app
@@ -23,7 +23,7 @@ Native-base (vs) React-Native version compatibility - http://docs.nativebase.io/
 Installed Android Studio with Android Virtual Device Manager enabled
 Expo app installed on your phone.
 
-#External React-Native NPM packages used:
+# External React-Native NPM packages used:
 native-base
 react-navigation
 react-native-elements
