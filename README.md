@@ -1,6 +1,6 @@
 # Twitapp
 
-#Twitter App prototype &lt;UI Components only>
+# Twitter App prototype &lt;UI Components only>
 This is an implementation of a Prototype for Twitter App with only UI components. It includes only the 3 core screens of the Twitter - Profile page(as a Drawer), Timeline View and Search (Tab styled). Since this is UI only project, the Twitter feed has been embedded using a public Twitter feed. This has been implemented with atmost simplicity and still with the exact match to the Twitter App UI.
 
 
@@ -24,12 +24,12 @@ Installed Android Studio with Android Virtual Device Manager enabled
 Expo app installed on your phone.
 
 # External React-Native NPM packages used:
-native-base
-react-navigation
-react-native-elements
-react-native-action-button
-react-twitter-embedded-timeline 
-react-native-vector-icons
+> native-base
+> react-navigation
+> react-native-elements
+> react-native-action-button
+> react-twitter-embedded-timeline 
+> react-native-vector-icons
 
 
 Sandeep Gengineri
