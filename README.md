@@ -28,7 +28,7 @@ $ native-base
 $ react-navigation
 $ react-native-elements
 $ react-native-action-button
-$ react-twitter-embedded-timeline 
+$ react-twitter-embedded-timeline
 $ react-native-vector-icons
 
 
